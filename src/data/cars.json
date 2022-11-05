@@ -3,32 +3,52 @@
     "id":1,
     "name":"Chevy",
     "price":20000,
-    "year":2015
+    "year":2015,
+    "contact":{
+        "dealer":"Laith",
+        "number":"111-111-1111"
+    }
     },
     {
     "id":2,
     "name":"BMW",
     "price":15000,
-    "year":2000
+    "year":2000,
+    "contact":{
+        "dealer":"Zulal",
+        "number":"111-111-1111"
+    }
     
     },
     {
     "id":3,
     "name":"Audi",
     "price":25000,
-    "year":2017
+    "year":2017,
+    "contact":{
+        "dealer":"Ergun",
+        "number":"111-111-1111"
+    }
     },
     {
     "id":4,
     "name":"Renault",
     "price":35000,
-    "year":2018
+    "year":2018,
+    "contact":{
+        "dealer":"Ceylan",
+        "number":"111-111-1111"
+    }
     },
     {
     "id":5,
     "name":"Ergun",
     "price":45000,
-    "year":20199
+    "year":20199,
+    "contact":{
+        "dealer":"Ozturk",
+        "number":"111-111-1111"
+    }
     }
 
 ]
